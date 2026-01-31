@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a passionate AI/ML Engineer and full-stack developer with hands-on experience in computer vision, generative AI, agentic AI, and building scalable applications for real-world use cases. Eager to apply my interdisciplinary skills in dynamic tech environments to drive innovative solutions.
 
 ## 🚀 About Me
-Hi, I’m Saneha, AI web developer who turns complex ideas into reliable, user-facing products. I started with frontend/full-stack (React, Node.js, MongoDB) and expanded into ML, computer vision, and agentic/generative AI. My projects feature YOLO pipelines, bilingual OCR form automation, LLM-powered emotional support chatbots, and workflows cutting manual effort by 60–70%. I prioritize clean code, real impact, and systems that ship.
 
 - 🌱 I’m currently learning advanced AI tools and exploring new technologies to enhance my skills.
 - 👯 I’m looking to collaborate on exciting AI/ML or full-stack projects that make a difference.
