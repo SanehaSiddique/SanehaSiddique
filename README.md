@@ -1,49 +1,40 @@
-# Hi there, I'm Saneha Siddique! 👋
+# Hi, I'm Saneha 👋
 
-Welcome to my GitHub profile! I'm a passionate AI/ML Engineer and full-stack developer with hands-on experience in computer vision, generative AI, agentic AI, and building scalable applications for real-world use cases. Eager to apply my interdisciplinary skills in dynamic tech environments to drive innovative solutions.
+Started out in frontend (making things look good was the whole appeal), moved into backend because I needed to know how the magic actually worked, ended up living in the MERN stack. Then I met AI and that was it, career over, in the best way.
+
+Now I build RAG pipelines, agentic workflows (LangGraph), and document-intelligence systems that turn messy real-world chaos, scanned forms, bilingual docs, unstructured records, into something an LLM can actually use without making things up.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced AI tools and exploring new technologies to enhance my skills.
-- 👯 I’m looking to collaborate on exciting AI/ML or full-stack projects that make a difference.
-- 💬 Ask me about AI/ML, computer vision, full-stack development, or automation workflows.
-- 📫 How to reach me: [Email](mailto:sanehasiddique1902@gmail.com)
+- 🔭 Currently building LLM copilots and retrieval pipelines that ground AI in real, messy data
+- 🌱 Always learning something new in the AI tooling space, right now that's agentic systems and evals
+- 👯 Looking to collaborate on RAG, agentic AI, or full-stack projects with real-world impact
+- 💬 Ask me about RAG, LangGraph, computer vision, or full-stack dev
+- 📫 Reach me: [sanehasiddique1902@gmail.com](mailto:sanehasiddique1902@gmail.com)
+- 🔗 Portfolio: [sanehasiddique.framer.website](https://sanehasiddique.framer.website/)
 - 😄 Pronouns: She/Her
-- 🔗 Portfolio: [sanehasiddique](https://sanehasiddique.framer.website)
 
-## 🛠️ Technologies & Skills
-### Programming
-Python, C/C++, JavaScript
+## 🛠️ Tech I Work With
 
-### AI/ML & Automation
-LangChain, LangGraph, YOLO, n8n, Scikit-learn, OpenCV, TensorFlow, GenAI, NLP
-
-### Backend Development
-FastAPI, Node.js, Express.js
-
-### Frontend Development
-React.js, TailwindCSS, CSS, HTML
-
-### Database Technologies
-MongoDB, VectorDB (Weaviate, Milvus, FAISS), MySQL
-
-### Testing & Code Quality
-Jest, Mocha/Chai, SonarQube
-
-### Tools & Version Control
-Git, GitHub, Docker
+**AI / GenAI:** LangChain, LangGraph, RAG, YOLO, OpenCV, Scikit-learn, TensorFlow, NLP
+**Vector DBs:** Weaviate, Milvus, FAISS
+**Backend:** Python, FastAPI, Node.js, Express.js
+**Frontend:** React.js, Tailwind CSS, HTML/CSS
+**Databases:** MongoDB, MySQL
+**Testing & Quality:** Jest, Mocha/Chai, SonarQube
+**Tools:** Git, GitHub, Docker, n8n
 
 ## 🏆 Achievements
-- Secured 3rd place in a web development hackathon at Cosmocon'26, showcasing rapid prototyping skills.
+
+- 🥉 3rd place, web development hackathon, Cosmocon '26 — rapid full-stack prototyping under time pressure
 
 ## 📈 GitHub Stats
-![Saneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanehaSiddique&show_icons=true&theme=radical)
 
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanehaSiddique&layout=compact&theme=radical)
+![Saneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanehaSiddique&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanehaSiddique&layout=compact&hide_border=true)
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/saneha-siddique)
-- [Portfolio](https://sanehasiddique.framer.website)
+## 🔗 Connect
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! Let's build something amazing together. 🚀
+[LinkedIn](https://www.linkedin.com/in/saneha-siddique) · [Portfolio](https://sanehasiddique.framer.website/)
+
+Poke around my repos, and if you're building something in RAG or agentic AI, let's talk 🚀
